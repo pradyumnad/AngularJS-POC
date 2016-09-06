@@ -1,7 +1,7 @@
 {
   "name": "dirpoc",
   "version": "1.0.0",
-  "description": "Sample app for Directives and Components",
+  "description": "Sample app for AngularJS",
   "main": "app.js",
   "scripts": {
     "test": "test",
