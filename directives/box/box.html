@@ -1,0 +1,8 @@
+<div>
+  <p>
+    Size : {{$ctrl.messages.length}}
+  </p>
+  <div ng-transclude>
+    <message ng-repeat="m in $ctrl.messages" content='m'></message>
+  </div>
+</div>

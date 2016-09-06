@@ -1,0 +1,24 @@
+{
+  "name": "dirpoc",
+  "version": "1.0.0",
+  "description": "Sample app for Directives and Components",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "http-server -a 127.0.0.1 -p 3000"
+  },
+  "keywords": [
+    "component",
+    "directive"
+  ],
+  "author": "Pradyumna",
+  "license": "ISC",
+  "devDependencies": {
+    "angular-mocks": "^1.5.8",
+    "jasmine-core": "^2.5.0",
+    "karma": "^1.2.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-ng-html2js-preprocessor": "^1.0.0"
+  }
+}
